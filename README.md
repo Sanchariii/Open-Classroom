@@ -47,9 +47,9 @@ This is an attempt to clone the best features of google classroom and educative.
 Clone the repository using the following command
 
 ```bash
-git clone github.com/yeazin/Zooming-cls.git
+git clone https://github.com/Sanchariii/Open-Classroom.git
 # After cloning, move into the directory having the project files using the change directory command
-cd Zooming-cls
+cd Open-Classroom
 ```
 Create a virtual environment where all the required python packages will be installed
 
