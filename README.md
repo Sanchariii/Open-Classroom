@@ -1,5 +1,6 @@
 <div align="center">
-<img src="readme/logo.png" width="120px"/>
+![pika-1709310669506-1x](https://github.com/Sanchariii/Open-Classroom/assets/88083502/3c17afba-aebf-43da-8e10-a0f64e3965b9)
+
 
 
  
