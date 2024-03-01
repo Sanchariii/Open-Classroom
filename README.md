@@ -1,12 +1,14 @@
 <div align="center">
-![pika-1709310669506-1x](https://github.com/Sanchariii/Open-Classroom/assets/88083502/3c17afba-aebf-43da-8e10-a0f64e3965b9)
+
 
 
 
  
 <h1> Open-Classroom </h2>
 This is an attempt to clone the best features of google classroom and educative.io using django.
-<img src="readme/home.png">
+<img src="readme/home.png">![pika-1709310669506-1x](https://github.com/Sanchariii/Open-Classroom/assets/88083502/7b6f4bb9-6ff9-4e25-97ce-5c8cfe0a998c)
+<img width="960" alt="landing page" src="https://github.com/Sanchariii/Open-Classroom/assets/88083502/7b6f4bb9-6ff9-4e25-97ce-5c8cfe0a998c">
+
 <hr>
 </div>
 ## Screenshots
