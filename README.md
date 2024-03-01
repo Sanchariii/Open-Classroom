@@ -13,7 +13,9 @@ This is an attempt to clone the best features of google classroom and educative.
 
 <hr>
 </div>
+
 ## Screenshots
+
 <img width="960" alt="landing page" src="https://github.com/Sanchariii/Open-Classroom/assets/88083502/5fb2d2dc-af49-4b52-ba28-9de699eedadd">
 <img width="960" alt="login page" src="https://github.com/Sanchariii/Open-Classroom/assets/88083502/0ac5f8e3-9ba5-411b-a9ca-45e56ba2d2d7">
 <img width="960" alt="classroom" src="https://github.com/Sanchariii/Open-Classroom/assets/88083502/0d009e67-0857-4873-8e5e-5dec0cd1bf6a">
