@@ -6,7 +6,7 @@
  
 <h1> Open-Classroom </h2>
 
-This is an attempt to clone the best features of google classroom and educative.io using django.
+Open Classroom serves as a virtual classroom where teachers can create, manage, and distribute assignments, course materials, and announcements effortlessly and students has the ability to access course materials from any device and receive timely feedback from their teachers.
 
 
 <img width="860" alt="landing page" src="https://github.com/Sanchariii/Open-Classroom/assets/88083502/7b6f4bb9-6ff9-4e25-97ce-5c8cfe0a998c">
