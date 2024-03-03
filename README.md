@@ -34,13 +34,41 @@ This is an attempt to clone the best features of google classroom and educative.
 - Forgot password 
 - User registration
 
+## Technologies Used:
+
+### Backend :
+- Python
+  
+- Django
+  
+- Database (SQLite)
+
+### Frontend :
+
+- HTML
+  
+- CSS
+  
+- JavaScript
+
+### Authentication:
+
+- Django Authentication System
+
+- OAuth
+
+### Other Tools:
+
+- Git (Version Control)
+
+- pip (Package Manager)
 
 
 
 
 
 
-
+## Installation :
 
  
 <br>
@@ -86,3 +114,7 @@ Run the development server
 # run django development server
 python manage.py runserver
 ```
+
+## Contribution
+
+Contributions are welcome! For questions or feedback regarding this project, please contact at raysanchari930@gmail.com.
